@@ -149,6 +149,7 @@ git config --global push.default upstream
 # </asid
 
 # Let's share our favorite number
+my favorite number is red
 git push
 ```
 
